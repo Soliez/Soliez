@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Soliez
 - 🌱 I’m currently learning Python
-- 📊 Data Analysis
